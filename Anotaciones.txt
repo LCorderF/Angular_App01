@@ -1,0 +1,12 @@
+https://www.buckets.co/
+http://www.toodledo.com/
+https://dmitryivanov.net/
+https://www.buckets.co/
+
+ng-model
+ng-init
+{{variable}}
+data binding, se enlaza la variable
+
+git init
+-- Para inicializar el uso de GIT en la carpeta, previo debo estar en la carpeta con los archivos a subir
