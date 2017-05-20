@@ -10,3 +10,25 @@ data binding, se enlaza la variable
 
 git init
 -- Para inicializar el uso de GIT en la carpeta, previo debo estar en la carpeta con los archivos a subir
+
+-- Previo para indicar quien eres
+git config --global user.email "luiscorder.developer@gmail.com"
+git config --global user.name "lcorderof"
+
+git add <archivo.ext> -- Solo un archivo
+git add . -- Todos los archivos
+
+git status -- Para saber que se va a "subir"
+
+-- Para guardar tus archivos
+git commit -m "comentarios para el commit"
+
+git branch -- Para saber en que rama estamos
+
+git remote add <identificador> <enlace de mi repositorio en github>
+git remote add origin https://github.com/LCorderF/Angular_App01
+
+git remote -- para ver que <identificador> esta seleccionado
+
+git push <identificador> <branch>
+git push origin master
